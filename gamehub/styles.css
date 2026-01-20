@@ -1,0 +1,32 @@
+h1 {
+    color: gainsboro;
+    text-align: center;
+}
+body
+{
+    text-align: center;
+    font-family: cursive;
+    background-image:url(6070%20better.jpg);
+    background-size: 100%;
+    background-repeat: round;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+loc{
+    color:blue;
+    text-decoration: underline;
+}
+links{
+    color: gainsboro;
+}
+button{
+    font-family: monospace;
+    border: none;
+    
+    border-radius: 25px;
+}
+over{
+    color:gainsboro;
+}
